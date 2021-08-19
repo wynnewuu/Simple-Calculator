@@ -1,5 +1,5 @@
 # Simple-Calculator
-This is simple caculator that calculate the sum, minus, division, and multiplication of two integer for you               
+This is simple caculator that calculate the sum, minus, division, and multiplication of two integer for you                                             
 Example Output:
 
 Hello Welcome to the simple calculator!           
